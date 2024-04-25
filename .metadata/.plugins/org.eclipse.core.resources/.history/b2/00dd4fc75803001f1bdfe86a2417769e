@@ -1,0 +1,5 @@
+package com.coreym.backend.config;
+
+public class WebConfiguration {
+
+}

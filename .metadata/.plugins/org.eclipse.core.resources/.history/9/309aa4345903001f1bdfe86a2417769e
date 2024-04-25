@@ -1,0 +1,5 @@
+package com.coreym.backend.controllers;
+
+public class MessagesController {
+
+}
